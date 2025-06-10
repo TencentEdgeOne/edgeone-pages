@@ -18,7 +18,7 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://x.com/EdgeOneDevs">Twitter</a>
 	<span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://discord.com/channels/1289135101308829758/1310919664708096010">Discord</a>
+  <a href="https://discord.com/channels/1289135101308829758/1310963802610733066">Discord</a>
   <br />
   <hr />
 </div>
